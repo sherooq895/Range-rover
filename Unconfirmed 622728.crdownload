@@ -1,0 +1,1903 @@
+<!doctype html>
+<html lang="en">
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Required meta tags -->
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+        <meta charset="utf-8" />
+    <title>Book a Land Rover Online | Land Rover India</title>
+    <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+    <meta name="theme-color" content="#ff6600" />
+    <meta name="description" content="Book a Land Rover online! Owning a Land Rover becomes easier! Now book your Land Rover car online in just few simple steps. Simply Clever. Click here to book now." />
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport" />
+    
+	<!--[if lt IE 9]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+	
+ <!-- ---------------- css files ---------------- -->
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/bootstrap.css" >
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/bootstrap.min.css" >
+<link rel="stylesheet" type="text/css" href="https://www.findmeasuv.in/frontend_assets/css/custom.css?1654844021">
+
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/bootstrap-grid.css"   /> 
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/bootstrap-grid.min.css"   />
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/grid_list.css"   />
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/jquery-ui.min.css"   />
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/lr_theme.css?1654844021"   />
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/bootstrap-select.css"   />
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/landrover_fonts.css?1654844021"   />
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/landrover_icon.css"  />
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/bootstrap-select.css"  />
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/stylesheet.css" />
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/slick/slick.css" />
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/slick/slick-theme.css"  />
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/shorten.css"  />
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/lr_icomoon.css"  />
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/nouislider.css"  />
+<!--<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/star-rating.min.css?1654844021"  />-->
+
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/sea.select.skinDark.css"  />
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/sea.select.Default.css"  />
+<!--<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/menu/ml-stack-nav.css?1654844021"  />
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/menu/ml-stack-nav-theme.css?1654844021"  />-->
+<!--<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/ml-stack-nav-theme.min.css?1654844021"  />-->
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/mobile.css"  />
+<link href="https://www.findmeasuv.in/frontend_assets/video_plugin/jquery.yu2fvl.css" rel="stylesheet" type="text/css">
+
+
+<link href="https://www.findmeasuv.in/frontend_assets/img/favicon.ico" rel="icon" type="image/x-icon" />
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" crossorigin="anonymous">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootbox.js/4.4.0/bootbox.min.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/callinPlugin.css"/>
+<!--Js Scripts -->
+<script src="https://www.findmeasuv.in/frontend_assets/js/constants.js" type="text/javascript"></script>
+<script src="https://www.findmeasuv.in/frontend_assets/js/jquery.min.js"></script>
+<script src="https://www.findmeasuv.in/frontend_assets/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js"></script>
+<script src="https://www.findmeasuv.in/frontend_assets/js/nouislider.js"></script>
+<script src="https://www.findmeasuv.in/frontend_assets/js/sea-select.min.js"></script>
+<script src="https://www.findmeasuv.in/frontend_assets/js/sea-select.js"></script>
+<script src="https://www.findmeasuv.in/frontend_assets/slick/slick.min.js"></script>
+<script src="https://www.findmeasuv.in/frontend_assets/js/jquery.alphanum.js"></script>
+
+<script src="https://www.findmeasuv.in/frontend_assets/video_plugin/jquery.yu2fvl.js"></script>
+<script>$(function(){$(".play-1").yu2fvl();});</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+</script>
+  <!---------------end of header--------------->
+  
+ <!-- <script>
+  
+  var personal_details_popup;
+  $(function() {
+
+  personal_details_popup = $.popup.create("exampleModal1", {"center": true, "background": true, "template": $("#basic_template")});
+ });
+    
+</script>    -->
+      <style>
+        .submodelcard .cardbox-shadow {
+    height: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0px;
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+   .card-head-image {
+        height:220px;
+   }
+}
+    </style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js" type="text/javascript"></script> 
+
+</head>
+
+<body>
+    <div class="pageWrapper">
+        
+        <html>
+    <head>
+        
+              <link rel="stylesheet" href="https://www.findmeasuv.in/frontend_assets/css/jquery-ui.min.css"   />
+    
+    <style>
+        
+        .ui-front{
+    z-index:9999 !important;
+    }
+    
+    .navbar-light .navbar-nav .nav-link.active{
+        color: rgb(16, 16, 16);
+        background-color: #e9ecec;
+       }
+       
+      .nav-link span.icon-location{
+           font-size:14px;
+       }
+
+    </style>  
+      
+    </head>
+
+<script>
+function select_mod1_dealer()
+{
+    var personal_details_pop = $('#personal_details_pop').val();
+	var new_locatorinput = $('#new_select_locatorinput').val(); 
+	var new_usr_city = $('#new_usr_city').val(); 
+	var new_dlrid = $('#new_dlrid').val(); 
+	var new_dlrid_state = $('#new_dlrid_state').val(); 
+	var new_dlrid_city = $('#new_dlrid_city').val(); 
+	var new_dlrid_uid = $('#new_dlrid_uid').val();
+	var new_dlrid_name = $('#new_dlrid_name').val();
+	//console.log(new_usr_city);
+    var new_locality = $('#locality').val();
+		$.ajax({
+		url : 'https://www.findmeasuv.in/locator/new_submit',
+		type : 'post',
+		//data : {dlrid:new_dlrid,dlr_states:new_dlrid_state,dlr_city:new_dlrid_city,dlr_uid:new_dlrid_uid,city_auto:new_usr_city,dlr_actual_name:new_dlrid_name},
+		data : {dlrid:new_dlrid,city_auto:new_usr_city,new_locality:new_locality},
+		dataType : 'json',
+		success : function (response) {
+		     //alert(response);
+			if(response.msg == 'success')
+			{   
+				if (typeof(CURRENT_LOCATION)!='undefined' && CURRENT_LOCATION=='payment') {
+					$.ajax({
+						url : 'https://www.findmeasuv.in/payment/reset_car_details',
+						dataType : 'json',
+						success : function (response) {
+							if(response.msg == 'success')
+							{   
+								if(personal_details_pop =="T"){
+							     //$('#quote_type').val('book_test_drive');
+							     window.location.href = response.redirect+"?&book_test_drive_value";
+							 }else if(personal_details_pop =="S"){
+							     //$('#quote_type').val('book_test_drive');
+							     window.location.href = response.redirect+"?&sent_a_quote_value";
+							 }else if(personal_details_pop =="C"){
+							     //$('#quote_type').val('book_test_drive');
+							     window.location.href = response.redirect+"?&requst_call_back";
+							 }else{
+								window.location.href = response.redirect;
+							
+							 }
+							}
+						}
+					});
+				}
+				/*else window.location.href = window.location.href;*/
+				else location.reload();
+			}
+		}
+	});
+	
+	
+}
+
+</script>
+<script>
+
+   $(function(){
+       //dealer_selection_popup = $.popup.create("select_new_dealer_popup", {"center": true, "background": true, "template": $("#basic_template")});
+       $("#new_select_locatorinput").bind("click", function() {
+          
+        $("#new_select_locatorinput").autocomplete({
+  	      
+  		delay:null,
+  		minLength: 1,
+  		autoFocus: true,
+  		source:"https://www.findmeasuv.in/locator/new_get_city_list?locationType=city",
+  		focus: function(event, ui){ 
+  		 
+			$("#new_locatorinput").val()
+  			return false;
+  		},
+  		
+  		open: function(event, ui){
+  		
+  			//$(".ui-autocomplete").append("<li class='list-group-item p_details ui-menu-item' role='presentation' ><a href='javascript:void(0);' class='no-border' id='shw_all_dlr'><i class='fa fa-map-marker' aria-hidden='true'></i>Show all dealers</a></li>");	
+  		},
+  		select: function(event, ui){
+			if (ui.item.dlrid=='_ALL') {
+				$("#new_select_locatorinput").val('');
+				$('#shw_all_dlr').modal('show');
+			} else {
+				$("#new_select_locatorinput").val(ui.item.loc+', '+ui.item.abbr+', '+ui.item.name);
+				$("#new_usr_city").val(ui.item.loc);
+				$("#new_dlrid").val(ui.item.dlrid);
+				$("#new_dlrid_state").val(ui.item.d_states);
+				$("#new_dlrid_city").val(ui.item.d_city);
+				$("#new_dlrid_uid").val(ui.item.d_uid);
+				$("#new_dlrid_name").val(ui.item.name);
+				$("#new_state_abbr").val(ui.item.abbr);
+				$("#locality").val(ui.item.locality);
+				if($('#sel_check').is(':checked') == true ) {
+					$('#display_sel_error').html('');
+					select_mod1_dealer();
+				} else {
+					$('#display_sel_error').html('<p style="color: red !important;font-size:10px !important;">To proceed further kindly accept the Terms & Conditions above.</p>');
+				}
+			}
+			return false;
+  		}
+  	}).data('ui-autocomplete')._renderItem = function(ul, item){
+		if (item.dlrid=='_ALL') {var inner_html = ' Show All Dealer ';}
+		else{ if (item.locality != '') { var inner_html = '  '+item.name+','+item.locality+', '+item.d_city+', '+item.d_states;}
+									else{ var inner_html = '  '+item.name+', '+item.d_city+', '+item.d_states;}
+			}
+		/*else var inner_html = '  '+item.name+', '+item.loc+', '+item.d_states;*/
+  		return $('<li class="list-group-item p_details pop-dlr" role="presentation" >').append("<a href='javascript:void(0);' class='no-border' ><i class='fa fa-map-marker' aria-hidden='true'></i>"+inner_html+ "</a>").appendTo(ul);
+  	}
+    
+    });
+     
+return false;
+   });  
+   
+   $(document).ready(function() {
+        $("#sel_check").click(function(event) {
+            if($('#sel_check').is(':checked') == true ) {
+                var loc_val=$('#new_select_locatorinput').val();
+                if(loc_val!=''){
+                    select_mod1_dealer();    
+                }
+            }
+        });
+    });
+   
+</script>    
+    
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0025/7074.js" async="async"></script>
+<!--<body onbeforeunload="$(document).scrollTop(353)">-->
+        <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top border-bottom">
+           <a class="navbar-brand lr-logo" href="https://www.findmeasuv.in/select_model">
+                <img src="https://www.findmeasuv.in/frontend_assets/img/logo-landrover.png" alt="" width="230" height="120" border="0">
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarColor03">
+                <ul class="navbar-nav mr-auto">
+                    					<li class="nav-item">
+                        <a class="nav-link  btn btn-outline-secondary " href="https://www.findmeasuv.in/retail_scheme">June Offers <span class="sr-only">(current)</span></a>
+                    </li>
+					                
+                    <li class="nav-item ">
+                        <a class="nav-link btn btn-outline-secondary " href="https://www.findmeasuv.in/compare" >Compare <sup class=" h5" id="compare_count"></sup></a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link  btn btn-outline-secondary " href="https://www.findmeasuv.in/new_vehicle">New Vehicle</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a class="nav-link  btn btn-outline-secondary " href="https://www.findmeasuv.in/approved">APPROVED USED</a>
+                    </li>
+                    
+                     <li class="nav-item">
+                        <a class="nav-link btn btn-outline-secondary" href="https://www.findmeasuv.in/lrc/shop" target="_blank">Collection</a>
+                    </li> 
+                    <li class="nav-item">
+                        <a class="nav-link btn btn-outline-secondary" href="https://accessories.landrover.com/in/en/" target="_blank">Find Accessories</a>
+                    </li>
+                    
+                                        <input type="hidden" name="impt_notice" id="impt_notice" value = "0">
+                   
+                                       
+                  
+                   
+                  <!--<li class="nav-item ">
+                              <a class="nav-link btn btn-outline-secondary h3"  data-toggle="modal" data-target="#select_new_dealer_popup" href="loc-modal"><i class="fa fa-map-marker" aria-hidden="true"></i></a>
+                      </li>-->
+
+                                    
+                    
+                    
+                    <li class="nav-item">
+                        <a class="nav-link btn btn-outline-secondary" target="_blank" href="https://www.landrover.in/index.html">Main Site</a>
+                    </li>
+                    
+                    <li class="nav-item" >
+                        <a class="nav-link btn btn-outline-secondary" target="_blank" href="https://www.findmeacar.in/">View Jaguar</a>
+                    </li>
+                    
+                  
+                    
+                </ul><!-- navbar -->
+                <ul class="navbar-nav ml-auto">
+                     <li class="nav-item dropdown ">
+                        <div class=" dropdown">
+                            <a class="nav-link btn btn-outline-secondary dropdown-toggle userDropdown" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <span class="icon-J_Login"></span>
+                            </a>
+
+                            <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+																	<a class="dropdown-item text-center" href="javascript:void(0);"  data-toggle="modal" data-target="#loc-modal_1" >Customer Login</a>
+									<a class="dropdown-item text-center" href="javascript:void(0);"  data-toggle="modal" data-target="#dealer_login_modal" >Retailer Login</a>
+								                            </div>
+                        </div>
+                    </li>
+                    
+                                         <li class="nav-item">
+                        <a class="nav-link btn btn-outline-secondary h3"  data-toggle="modal" data-target="#select_new_dealer_popup" href="loc-modal"><span class="icon-location"></span>  </a>
+                    </li> 
+                       
+                    
+                       <li class="nav-item">
+                        <a class="nav-link btn btn-outline-secondary" href="https://www.findmeasuv.in/cart"> <span class="icon-cart h5"></span><sup class="text-success h5" id="cart_count"></sup></a>
+                    </li>
+                    </ul>
+
+            </div><!-- navbar collapse -->
+        </nav>
+        <!-- login modal -->
+        <style>
+    .spinner {
+    // The height here is just for demo purposes
+    height: 100vh;  
+    position: relative;
+    
+    
+}
+</style>
+
+<div class="modal fade" id="loc-modal_1" role="dialog" style="display: none;" aria-hidden="true">
+            <div class="modal-dialog pop_upw modal-dialog-centered modal-sm">
+                <div class="modal-content">
+                    <div class="modal-header">
+                      
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="icon-LR_Filter_Close"></span></button>
+                  
+                    </div>
+                        <h5 class="modal-title text-center" id="exampleModalLabel">Login</h5>
+                          <div class="modal-body">
+                         <p>
+                                        If you already have an existing booking or want to view your last generated selection please input your Email ID. Below to generate an OTP (One Time Password).
+                                      </p>
+                        <fieldset class="thank-field">
+                       
+                            <form method="POST">
+                              <div class="form-group pt-2">
+                                
+                                <input type="text" class="form-control"  id="recipient-name" placeholder="Enter Email ID">
+                              </div>
+                              <div class="form-group text-center">
+                                  <input type="hidden" class="form-control" id="validate_otp" placeholder="Enter OTP"><br>
+                                 <button type="button" class="btn btn-primary" id="login"  >Generate  OTP</button>
+                                 
+                                 <button type="button" class="btn btn-primary" id="validate_otp_check"  >Verify OTP</button>
+                                 <button type="button" class="btn btn-primary" id="resend_otp" style="display:none" >Resend OTP</button>
+                                 <input type="hidden" id="verifyotp" value="">
+                                 
+                              </div>
+                              <center>
+                                  <div id="otp_verified" style='font-size:1.00em;  padding:5px;'></div>
+                                  <img src="https://www.findmeasuv.in/frontend_assets/img/Spinner-31px.gif" id="logging_in"></img>
+                                  
+                                  <div id="error_msg" style='font-size:1.00em; color:red; padding:5px;'></div>
+                              </center>
+                            </form>
+                        </fieldset>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+	<div class="modal fade" id="dealer_login_modal" role="dialog" style="display: none;" aria-hidden="true">
+            <div class="modal-dialog pop_upw modal-dialog-centered" style="max-width: 438px; margin: 1.75rem auto;">
+                <div class="modal-content">
+                    <div class="modal-header border-bottom-dark">
+                      
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="icon-LR_Filter_Close"></span></button>
+                  
+                    </div>
+                        <h5 class="modal-title text-center pt-2" id="exampleModalLabel">Retailer Login</h5>
+                          <div class="modal-body">
+                        <fieldset class="thank-field border">
+                       
+                            <form method="POST" action="" onsubmit="return false;" class="p-2" id="dealer_login_form">
+                              <div class="form-group pt-2">
+                                <input type="text" class="form-control" placeholder="Enter Maximizer ID." name="userid" autocomplete="off" required />
+                              </div>
+                              <div class="form-group text-center m-0">
+                                  <input type="password" class="form-control" name="password" placeholder="Enter Maximizer Password" autocomplete="off" required /><br>
+                                 <button class="btn btn-primary" >Login</button>
+                                 
+                              </div>
+                              <center>
+                                  <img src="https://www.findmeasuv.in/frontend_assets/img/Spinner-31px.gif" id="dealer_login_spinner" style='display: none;'></img>
+                                  <div id="dealer_error_msg" style='font-size:1.00em; color:red; padding:5px;'></div>
+                              </center>
+                            </form>
+                        </fieldset>
+						<script>
+							$(function(){
+								$("#dealer_login_form").submit(function(e){
+									$.ajax({
+										type:"POST",
+										url:"https://www.findmeasuv.in/admin/login/validate_login_admin_frontend",
+										dataType:"json",
+										data:$("#dealer_login_form").serialize(),
+										beforeSend:function()
+										{
+											$("#dealer_login_form .btn").prop('disabled',true);
+											$('#dealer_login_spinner').css('display', 'inline');
+											$("#dealer_error_msg").html('');
+										},
+										success:function(response){
+											$("#dealer_login_form .btn").prop('disabled',false);
+											$('#dealer_login_spinner').css('display', 'none');
+											$("#dealer_error_msg").html(response.msg);
+											if(response.status == 200) window.location.href = '';
+										}
+									});
+								});
+							});
+						</script>
+                </div>
+            </div>
+        </div>
+</div>
+
+ 
+ 
+<script>
+
+
+$(function() {
+    
+           $('#loc-modal_1').on('keypress', function (event) {
+           var keycode = (event.keyCode ? event.keyCode : event.which);
+           var vrfy=$("#verifyotp").val();
+            if(keycode == '13'){
+                if(vrfy=="vrfy"){
+                    $("#validate_otp_check").click();
+                }else{
+                    $('#login').click();
+                }
+               
+             }
+           });
+    
+    
+    
+    
+    
+            $("#validate_otp_check").hide();
+            $("#logging_in").hide();
+       //   Login function           
+        $('#login').click(function(event){
+             
+               if(!($('#recipient-name').val() == ""))
+                {
+                    
+                        var email_phnno = $('#recipient-name').val();
+                        var email_pattern = new RegExp(/^[+a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/i);
+                        var mobile_pattern= new RegExp(/^((?!(0))[0-9]{10})$/g);
+                        /*if(mobile_pattern.test(email_phnno)){
+                            var phone_length=$('#recipient-name').val().length;
+                            if(phone_length!=10){
+                                $("#error_msg").html("Please Enter Valid Mobile Number");
+                            }else{
+                                generate_otp();
+                            }
+                        }else{*/
+                            if(email_pattern.test(email_phnno)){
+                                generate_otp();
+                            }else{
+                                $("#error_msg").html("Please Enter Valid Email ID");
+                            }
+                        /*}*/
+                     
+                }
+                  else{
+                           $("#error_msg").html("Please provide Email ID");
+                        }
+                        
+                       
+         });//login function end
+         
+        $('#validate_otp_check').click(function(event)
+        {
+             $('#validate_otp_check').prop("disabled",true);
+           if(!($('#validate_otp').val() == ""))
+            {
+                
+                    var email_id = $('#recipient-name').val();
+                    var otp = $('#validate_otp').val();
+                    
+                    $.ajax({
+                        
+                       type : "POST",
+                       url  : "https://www.findmeasuv.in/login/check_otp" ,
+                       dataType: "html",
+                       data : {email_id:email_id,otp:otp},
+                       
+                       success: function(response){
+                         if(response.trim() === 'OTP Verified'){
+                             $("#verifyotp").val('gnrt');
+                             $("#otp_verified").html("OTP Verified").css('color','green');
+                             $("#loc-modal_1").modal('hide');
+                             window.location.reload();
+                              
+                         }else{
+                             $("#otp_verified").html("Wrong OTP").css('color','red');
+                         }
+                       }
+                    });
+                    
+               
+            }
+              else{
+                       $("#error_msg").html("Please provide OTP").css('color','red');
+                    }
+                    
+                   
+     });//validate_otp_check
+     
+     $('#resend_otp').click(function(event)
+        {
+            var email_id = $('#recipient-name').val();
+            $('#resend_otp').prop("disabled",true);
+            /*if(($('validate_otp').val()) == "")
+            {*/
+                $.ajax({
+                            
+                           type : "POST",
+                           url  : "https://www.findmeasuv.in/login/resend_otp" ,
+                           dataType: "json",
+                           data : {email_id:email_id},
+                           success: function(response){
+                                if(response.status == "success")
+                                {
+                                  $("#otp_verified").html(response.desc).css('color','green');
+                                  $("#error_msg").html("");
+                                   $("#login").hide();
+                                   if($("#login").hide()){
+                                       $("#recipient-name").attr('readonly','readonly');
+                                       $("#validate_otp").prop('type','text');
+                                       $("#verifyotp").val('vrfy');
+                                       $("#validate_otp_check").show();
+                                       $("#resend_otp").show();
+                                       $("#logging_in").hide();
+                                   }
+                                }
+                                else
+                                {
+                                    $("#error_msg").html("Please try again").css('color','red');
+                                }
+                                $('#resend_otp').prop("disabled",false);
+                           }
+                });
+           // }
+            
+        });
+
+
+
+});
+        //  Email validation function
+
+ function generate_otp()
+ {
+    // alert("okk");
+     var email_id = $('#recipient-name').val();
+     $.ajax({
+               type : "POST",
+               url  : "https://www.findmeasuv.in/login/check_user" ,
+               dataType: "html",
+               data : {email_id:email_id},
+                beforeSend: function() {
+                        // setting a timeout
+                       $("#logging_in").show();
+                    },
+               success: function(response){
+                //   alert("Your OTP is generated");
+                if(response==1){
+                    $("#error_msg").html("Email ID Entered is Not Registered.");
+                    $("#logging_in").hide();
+                }
+                else
+                {
+                  $("#error_msg").html(response.desc).css('color','green');
+                  $("#error_msg").html("");
+                   $("#login").hide();
+                   $('#recipient-name').prop('readonly', true);
+                   if($("#login").hide())
+                   {
+                       $("#validate_otp").prop('type','text');
+                       $("#verifyotp").val('vrfy');
+                       $("#validate_otp_check").show();
+                       $("#resend_otp").show();
+                       $("#logging_in").hide();
+                   } 
+                }
+                   }
+                });
+               
+ }
+         
+         
+</script>    
+                <!-- Location Modal -->
+    <div class="modal fade" id="select_new_dealer_popup" role="dialog">
+        <div class="modal-dialog modal-dialog-centerCustom">
+          <div class="modal-content">
+            <div class="modal-header">
+                      
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="icon-LR_Filter_Close"></span></button>
+                  
+                    </div>
+            <div class="modal-body">
+              <h4 class>Please input city of your current residence.</h4>
+            
+              <input type="text" class="form-control  text-uppercase " id="new_select_locatorinput" autocomplete="off"  placeholder="ENTER CITY OF YOUR RESIDENCE">
+             <input type='hidden' value='' id='new_usr_city' name='new_dlrid'>
+			 <input type='hidden' value='' id='new_dlrid' name='new_dlrid'>
+			 <input type='hidden' value='' id='new_dlrid_state' name='new_dlrid_state'>
+			 <input type='hidden' value='' id='new_dlrid_city' name='new_dlrid_city'>
+			 <input type='hidden' value='' id='new_dlrid_uid' name='new_dlrid_uid'>
+			 <input type='hidden' value='' id='new_dlrid_name' name='new_dlrid_uid'>
+			 <input type='hidden' value='' id='new_state_abbr' name='new_state_abbr'> 
+			 <input type='hidden' value='' id='locality' name='locality'> 
+			 <input type='hidden' value='' id='personal_details_pop' name='personal_details_pop'> 
+			 <input type="hidden"  id="vehicle_type" value="" />
+			             </div>
+           
+            <b class="container py-2">Disclaimer</b><div class="modal-footer">
+              
+
+              <p class="h6"><input id="sel_check" type="checkbox" checked="true"> <b>I Agree to the <a href="https://www.findmeasuv.in/page/terms" target="_blank">Terms and Conditions</a> and <a href="https://www.findmeasuv.in/page/privacy_policy" target="_blank">Privacy Policy</a> of this website.</b></p>
+            </div>
+          </div>
+        </div>
+        
+      </div>  
+	  <style>
+        #shw_all_dlr.modal-dialog{
+            width: 35%;
+            background: #f2f2f2;
+
+            font-size: 1.2rem;
+        }
+        #shw_all_dlr .modal-dialog .modal-header .close {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+        }
+        
+        .panel-dealerBox{
+            padding: 2px 2px;
+            background: #f2f2f2;
+            cursor:pointer;
+        }
+        
+        .directionbtnGroup  a.btn-link {
+            font-size: 10px !important;
+            margin-right: 3px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        
+        .directionbtnGroup  a.btn-link.collapsed {
+            font-size: 8px !important;
+            margin-right: 3px;
+            cursor: pointer;
+        }
+                
+        .retailercardAccord .card .card-header{
+            display: block;
+            cursor: pointer;
+            position: relative;        
+            padding: 0px;
+            min-height: 0;
+            font-size: 100%;
+            border: none;
+            background: #1e1e1e;
+            font-weight: normal;
+            color: white;
+            outline: none;
+            text-align: left;
+            border-radius: 0px !important;
+            transition: none;
+        }
+        
+        .retailercardAccord .card .card-header.collapsed{
+            background: #f8f9f9 !important;
+            
+        }
+        
+        .retailercardAccord .card .card-header button{
+            color: white;
+            transition: none;
+        }
+        
+        .retailercardAccord .card .card-header.collapsed button{
+            color: black;
+        }
+        
+        .retailercardAccord .card .card-header button{
+            text-decoration: none !important;
+        }
+        .retailercardAccord .card .card-body{
+            padding: 0px;
+        }
+        
+        .cardTitle {
+            background-color: #fff;
+            height: 70px;
+            text-align: center;            
+            color: #0c121c;
+            background-color: #fff;
+            display: block;
+            font-size: 10px;
+            line-height: 12px;
+            letter-spacing: 0em;
+            padding: 13px 2px;
+            text-align: center;
+            text-decoration: none;
+            vertical-align: middle !important;
+            border: 1px solid white;
+            box-sizing: border-box;
+            position: relative;
+            width: 100%;
+        }
+        
+        .cardTitle:hover {
+            border: 1px solid #BFBFBF;
+            background-color: #e6e6e6;
+            //color: white;
+        }
+        
+        .modal-content {
+            background-color: #e4e8e8 !important;
+        }
+        
+        .retailDirectionCard{
+            margin-bottom:2px;
+        }
+        
+</style>
+<div class="modal fade" id="shw_all_dlr" role="dialog">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header pt-0">
+                <h4 class="py-3 w-100 border-bottom">Recommended Retailers</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="icon-LR_Filter_Close"></span></button>
+            </div>
+
+            <div class="modal-body">
+                <!--<div class="container mb-2">
+                    <div class="row d-flex justify-content-end directionbtnGroup">
+                        <a class=" btn-link" data-toggle="collapse" data-target="#northSection" aria-expanded="true" aria-controls="northSection">North</a>
+                        <a class=" btn-link collapsed" data-toggle="collapse" data-target="#southSection" aria-expanded="true" aria-controls="southSection">South</a>
+                        <a class=" btn-link collapsed" data-toggle="collapse" data-target="#eastSection" aria-expanded="true" aria-controls="eastSection">East</a>
+                        <a class=" btn-link collapsed" data-toggle="collapse" data-target="#westSection" aria-expanded="true" aria-controls="westSection">West</a>
+                    </div>
+                </div>-->
+
+
+
+
+                <div class="accordion retailercardAccord" id="allDealerAccordion">
+                    <div class="card retailDirectionCard">
+                        <div class="card-header" id="headingOne" data-toggle="collapse" data-target="#northSection" aria-expanded="true" aria-controls="northSection">
+                            <h2 class="mb-0">
+                                <button class="btn btn-link" type="button">
+                                    NORTH
+                                </button>
+                            </h2>
+                        </div>
+
+                        <div id="northSection" class="collapse show" aria-labelledby="headingOne" data-parent="#allDealerAccordion">
+                            <div class="card-body">
+                                <div class="container dealerContainer">
+                                    <div class="row">
+										                                        <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('10101');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">AMP Motors</span><br>
+                                                <span class=" font-area">New Delhi<br>Delhi</span>
+                                            </div>
+                                        </div>
+										                                        <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('10801');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">Dada Motors</span><br>
+                                                <span class=" font-area">Chandigarh<br>Punjab</span>
+                                            </div>
+                                        </div>
+										                                        <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('11401');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">AMP Motors</span><br>
+                                                <span class=" font-area">Gurgaon <br>Haryana</span>
+                                            </div>
+                                        </div>
+										                                        <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('11402');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">Malwa Automotives</span><br>
+                                                <span class=" font-area">Karnal<br>Haryana</span>
+                                            </div>
+                                        </div>
+										                                        <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('12801');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">Dada Motors</span><br>
+                                                <span class=" font-area">Ludhiana<br>Punjab</span>
+                                            </div>
+                                        </div>
+										                                        <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('12901');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">AMP Motors</span><br>
+                                                <span class=" font-area">Jaipur<br>Rajasthan</span>
+                                            </div>
+                                        </div>
+										                                        <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('13402');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">Shiva Motocorp</span><br>
+                                                <span class=" font-area">Noida<br>Uttar Pradesh</span>
+                                            </div>
+                                        </div>
+										                                        <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('13403');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">JSV Motors</span><br>
+                                                <span class=" font-area">Lucknow<br>Uttar Pradesh</span>
+                                            </div>
+                                        </div>
+										                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card retailDirectionCard">
+                        <div class="card-header collapsed" id="headingTwo" data-toggle="collapse" data-target="#southSection" aria-expanded="false" aria-controls="southSection">
+                            <h2 class="mb-0">
+                                <button class="btn btn-link " type="button">
+                                    SOUTH
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="southSection" class="collapse" aria-labelledby="headingTwo" data-parent="#allDealerAccordion">
+                            <div class="card-body">
+                                <div class="container dealerContainer">
+                                    <div class="row">
+                                                                                <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('13201');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">Pride Motors</span><br>
+                                                <span class=" font-area">Hyderabad<br>Telangana</span>
+                                            </div>
+                                        </div>
+										                                        <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('11801');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">Marqland</span><br>
+                                                <span class=" font-area">Bangalore<br>Karnataka</span>
+                                            </div>
+                                        </div>
+										                                        <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('11901');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">Muthoot Motors</span><br>
+                                                <span class=" font-area">Cochin<br>Kerala</span>
+                                            </div>
+                                        </div>
+										                                        <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('13101');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">VST Grandeur</span><br>
+                                                <span class=" font-area">Chennai<br>Tamil Nadu</span>
+                                            </div>
+                                        </div>
+										                                        <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('13102');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">VST Grandeur</span><br>
+                                                <span class=" font-area">Coimbatore<br>Tamil Nadu</span>
+                                            </div>
+                                        </div>
+										                                        <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('11802');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">Marqland</span><br>
+                                                <span class=" font-area">Mangaluru<br>Karnataka</span>
+                                            </div>
+                                        </div>
+										                                        <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('10402');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">Anika Motors</span><br>
+                                                <span class=" font-area">VIJAYAWADA<br>Andhra Pradesh</span>
+                                            </div>
+                                        </div>
+										                                        <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('12602');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">Empreo Prestige</span><br>
+                                                <span class=" font-area">Cuttack<br>Odisha</span>
+                                            </div>
+                                        </div>
+										                                        <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('11804');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">Shakti Auto Cars Pvt Ltd</span><br>
+                                                <span class=" font-area">Bangalore<br>Karnataka</span>
+                                            </div>
+                                        </div>
+										                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card retailDirectionCard">
+                        <div class="card-header collapsed" id="headingThree" data-toggle="collapse" data-target="#eastSection" aria-expanded="false" aria-controls="eastSection">
+                            <h2 class="mb-0">
+                                <button class="btn btn-link " type="button">
+                                    EAST AND CENTRAL
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="eastSection" class="collapse" aria-labelledby="headingThree" data-parent="#allDealerAccordion">
+                            <div class="card-body">
+                                <div class="container dealerContainer">
+                                    <div class="row">
+										                                        <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('10901');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">Satyam Balajee Automotives</span><br>
+                                                <span class=" font-area">Raipur<br>Chhattisgarh</span>
+                                            </div>
+                                        </div>
+										                                        <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('11201');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">Cargo Motors</span><br>
+                                                <span class=" font-area">Ahmedabad<br>Gujarat</span>
+                                            </div>
+                                        </div>
+										                                        <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('12101');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">Sanghi Brothers</span><br>
+                                                <span class=" font-area">Indore<br>Madhya Pradesh</span>
+                                            </div>
+                                        </div>
+										                                        <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('13601');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">Lexus Motors</span><br>
+                                                <span class=" font-area">Kolkata<br>West Bengal</span>
+                                            </div>
+                                        </div>
+										                                        <div class="col-md-4 panel-dealerBox">
+                                            <div class="cardTitle" onclick="$('#new_dlrid').val('11202');select_mod1_dealer();">
+                                                <span class=" font-weight-bold">Navjivan</span><br>
+                                                <span class=" font-area">Surat<br>Gujarat</span>
+                                            </div>
+                                        </div>
+										                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card retailDirectionCard">
+                        <div class="card-header collapsed" id="headingFour" data-toggle="collapse" data-target="#westSection" aria-expanded="false" aria-controls="westSection">
+                            <h2 class="mb-0">
+                                <button class="btn btn-link " type="button">
+                                    WEST
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="westSection" class="collapse" aria-labelledby="headingFour" data-parent="#allDealerAccordion">
+                            <div class="card-body">
+                                <div class="container dealerContainer">
+                                    <div class="row">
+										                                            <div class="col-md-4 panel-dealerBox">
+                                                <div class="cardTitle" onclick="$('#new_dlrid').val('10203');select_mod1_dealer();">
+                                                    <span class=" font-weight-bold">Ace Perkins</span><br>
+                                                    <span class=" font-area">Pune<br>Maharashtra</span>
+                                                </div>
+                                            </div>
+    										                                            <div class="col-md-4 panel-dealerBox">
+                                                <div class="cardTitle" onclick="$('#new_dlrid').val('10202');select_mod1_dealer();">
+                                                    <span class=" font-weight-bold">Navnit Motors</span><br>
+                                                    <span class=" font-area">Mumbai<br>Maharashtra</span>
+                                                </div>
+                                            </div>
+    										                                            <div class="col-md-4 panel-dealerBox">
+                                                <div class="cardTitle" onclick="$('#new_dlrid').val('10206');select_mod1_dealer();">
+                                                    <span class=" font-weight-bold">Modi Motors</span><br>
+                                                    <span class=" font-area">Mumbai<br>Maharashtra</span>
+                                                </div>
+                                            </div>
+    										                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <b class="container py-2">Disclaimer</b>
+            <div class="modal-footer">
+                <p class="h6"><input id="loc_check" type="checkbox" checked="true"> <b>I Agree to the <a href="https://www.findmeasuv.in/page/terms" target="_blank">Terms and Conditions</a> and <a href="https://www.findmeasuv.in/page/privacy_policy" target="_blank">Privacy Policy</a> of this website.</b></p>
+            </div>
+        </div>
+    </div>
+</div> 
+ <!--</body>      
+</html>    -->          
+
+        
+          <div id="carouselExampleIndicators" class="carousel slide hero-carousel" data-ride="carousel">
+          <!--<ol class="carousel-indicators">
+                        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                      </ol>-->
+          
+          <div class="carousel-inner">
+                          <div class="carousel-item hero-image active">
+              <img class="d-block w-100" src="https://www.findmeasuv.in/frontend_assets/img/slider/Discovery_sport_carousel.jpg" alt="First slide">
+              
+              <div class="carousel-caption d-none d-md-block" id="cs_0" >
+                                    <div class="row">
+                       <div class="col-12">
+                          <h1 class="text-primary text-left mb-0"></h1>
+                           <p class="mb-0 text-left pt-0 mt-0" ><a class="play-1" href="https://youtu.be/xpUhMIVUcZk"><img class="d-block w-100 mx-auto" src="https://www.findmeasuv.in/frontend_assets/video_plugin/carousel_video_thumbnail.jpg"></a></p>
+                        </div>
+                  </div>
+                  
+                  <div class="row">
+                                                                </div> 
+              </div>
+            </div>
+                      </div>
+         
+          
+          <!--<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>-->
+       </div>
+               <!-- carouselExampleIndicators -->    <div class="pt-2 ">
+      
+      <div class="container pt-3">	
+	<div style="text-align: center;display:none;"><h2>A STATEMENT FROM JAGUAR LAND ROVER</h2><br> Given the outbreak of COVID-19, we will not be able to deliver any order at present. We are following the notifications and guidelines issued by the Government of India and respective State Governments. We sincerely regret the inconvenience caused. Thank you for your understanding in these unprecedented times.</div>
+		<div class="submodelpanel row">
+					    
+	<div class="card submodelcard col-sm-6 col-md-6 col-lg-4 py-3 ">
+	<div class="cardbox-shadow">
+	    <form method="POST" action="https://www.findmeasuv.in/new_vehicle/index/Discovery_Sport">
+				<input type="hidden" name="temp_new_city" value="Chandigarh" />
+				<input type="hidden" name="temp_new_dlrid" value="10801" />
+				<a href="javascript:void(0);" class="card-head-image" onclick="$(this).closest('form').submit();">
+				    	<img class="card-img" src="https://www.findmeasuv.in/frontend_assets/img/landrover_model/DISCOVERY_SPORT.jpg" alt="Card image cap">
+				</a>
+			</form>
+		<!--<a class="card-head-image" href="https://www.findmeasuv.in/new_vehicle/index/Discovery_Sport">
+			<img class="card-img" src="https://www.findmeasuv.in/frontend_assets/img/landrover_model/DISCOVERY_SPORT.jpg" alt="Card image cap">
+			</a>-->
+			<div class="card-body bg-white text-center indexTagBox">
+				<h5 class="card-title2 text-uppercase font-weight-bold">
+					<div class="">Discovery Sport</div>
+				</h5>
+				<p class="card-text font-weight-bold l-height">Ex-Showroom From : 
+					<i class="fa fa-inr"></i> 69 31 000					<br>
+		                Monthly EMI From : 
+						<i class="fa fa-inr"></i> 87 192					</p>
+					<p class="card-text">The adventurous and versatile compact SUV.</p>
+				</div>
+				<div class="card-footer pt-0 bg-white border-0" style="height:22%">
+										<div class="card-text py-1">
+						<!--<a href="https://www.findmeasuv.in/new_vehicle/index/Discovery_Sport" class="card-link home-card-list">-->
+						<form method="POST" action="https://www.findmeasuv.in/new_vehicle/index/Discovery_Sport" class="card-link home-card-list" style="margin-bottom: 1px;">
+            				<input type="hidden" name="temp_new_city" value="Chandigarh" />
+            				<input type="hidden" name="temp_new_dlrid" value="10801" />
+							<a href="javascript:void(0);" class="card-link home-card-list" onclick="$(this).closest('form').submit();">
+							<span class="icon-ldx-arrow-right"></span> <span class="card-link home-card-list">New Vehicle</span>
+							<span class="float-right">
+								<small>  </small>
+							</span>
+						    </a>
+						<!--</a>-->
+					    </form>
+					</div>
+																				<div class="card-text py-1">
+						<a href="https://www.findmeasuv.in/approved/index/Discovery_Sport" class="card-link home-card-list">
+							<span class="icon-ldx-arrow-right"></span> Approved Used 
+							<span class="float-right">
+								<small>5 Available</small>
+							</span>
+						</a>
+					</div>
+																		<div class="card-text py-1">
+						<a href="https://www.findmeasuv.in/retail_scheme/index/Discovery_Sport" class="card-link home-card-list ">
+							<span class="icon-ldx-arrow-right"></span> JUNE OFFERS
+							
+						</a>
+					</div>
+										
+				</div>
+				
+			   	    
+				    
+				<div class="card-footer bg-primary  text-center border-0 py-1">
+					<a href="" class="h6 text-white" data-toggle="modal" data-target="#select_new_dealer_popup" href="loc-modal">
+                select nearest retailer to check availability
+              </a>
+				</div> 
+							
+			</div>
+			</div>
+						    
+	<div class="card submodelcard col-sm-6 col-md-6 col-lg-4 py-3 ">
+	<div class="cardbox-shadow">
+	    <form method="POST" action="https://www.findmeasuv.in/new_vehicle/index/Range_Rover_Evoque">
+				<input type="hidden" name="temp_new_city" value="Chandigarh" />
+				<input type="hidden" name="temp_new_dlrid" value="10801" />
+				<a href="javascript:void(0);" class="card-head-image" onclick="$(this).closest('form').submit();">
+				    	<img class="card-img" src="https://www.findmeasuv.in/frontend_assets/img/landrover_model/RANGE_ROVER_EVOQUE.jpg" alt="Card image cap">
+				</a>
+			</form>
+		<!--<a class="card-head-image" href="https://www.findmeasuv.in/new_vehicle/index/Range_Rover_Evoque">
+			<img class="card-img" src="https://www.findmeasuv.in/frontend_assets/img/landrover_model/RANGE_ROVER_EVOQUE.jpg" alt="Card image cap">
+			</a>-->
+			<div class="card-body bg-white text-center indexTagBox">
+				<h5 class="card-title2 text-uppercase font-weight-bold">
+					<div class="">Range Rover Evoque</div>
+				</h5>
+				<p class="card-text font-weight-bold l-height">Ex-Showroom From : 
+					<i class="fa fa-inr"></i> 69 99 000					<br>
+		                Monthly EMI From : 
+						<i class="fa fa-inr"></i> 88 043					</p>
+					<p class="card-text">Distinctive and individual, a true Range Rover in compact form.</p>
+				</div>
+				<div class="card-footer pt-0 bg-white border-0" style="height:22%">
+										<div class="card-text py-1">
+						<!--<a href="https://www.findmeasuv.in/new_vehicle/index/Range_Rover_Evoque" class="card-link home-card-list">-->
+						<form method="POST" action="https://www.findmeasuv.in/new_vehicle/index/Range_Rover_Evoque" class="card-link home-card-list" style="margin-bottom: 1px;">
+            				<input type="hidden" name="temp_new_city" value="Chandigarh" />
+            				<input type="hidden" name="temp_new_dlrid" value="10801" />
+							<a href="javascript:void(0);" class="card-link home-card-list" onclick="$(this).closest('form').submit();">
+							<span class="icon-ldx-arrow-right"></span> <span class="card-link home-card-list">New Vehicle</span>
+							<span class="float-right">
+								<small>  </small>
+							</span>
+						    </a>
+						<!--</a>-->
+					    </form>
+					</div>
+																				<div class="card-text py-1">
+						<a href="https://www.findmeasuv.in/approved/index/Range_Rover_Evoque" class="card-link home-card-list">
+							<span class="icon-ldx-arrow-right"></span> Approved Used 
+							<span class="float-right">
+								<small>4 Available</small>
+							</span>
+						</a>
+					</div>
+																		<div class="card-text py-1">
+						<a href="https://www.findmeasuv.in/retail_scheme/index/Range_Rover_Evoque" class="card-link home-card-list ">
+							<span class="icon-ldx-arrow-right"></span> JUNE OFFERS
+							
+						</a>
+					</div>
+										
+				</div>
+				
+			   	    
+				    
+				<div class="card-footer bg-primary  text-center border-0 py-1">
+					<a href="" class="h6 text-white" data-toggle="modal" data-target="#select_new_dealer_popup" href="loc-modal">
+                select nearest retailer to check availability
+              </a>
+				</div> 
+							
+			</div>
+			</div>
+						    
+	<div class="card submodelcard col-sm-6 col-md-6 col-lg-4 py-3 ">
+	<div class="cardbox-shadow">
+	    <form method="POST" action="https://www.findmeasuv.in/new_vehicle/index/Defender">
+				<input type="hidden" name="temp_new_city" value="Chandigarh" />
+				<input type="hidden" name="temp_new_dlrid" value="10801" />
+				<a href="javascript:void(0);" class="card-head-image" onclick="$(this).closest('form').submit();">
+				    	<img class="card-img" src="https://www.findmeasuv.in/frontend_assets/img/landrover_model/DEFENDER.jpg" alt="Card image cap">
+				</a>
+			</form>
+		<!--<a class="card-head-image" href="https://www.findmeasuv.in/new_vehicle/index/Defender">
+			<img class="card-img" src="https://www.findmeasuv.in/frontend_assets/img/landrover_model/DEFENDER.jpg" alt="Card image cap">
+			</a>-->
+			<div class="card-body bg-white text-center indexTagBox">
+				<h5 class="card-title2 text-uppercase font-weight-bold">
+					<div class="">Defender</div>
+				</h5>
+				<p class="card-text font-weight-bold l-height">Ex-Showroom From : 
+					<i class="fa fa-inr"></i> 80 71 872					<br>
+		                Monthly EMI From : 
+						<i class="fa fa-inr"></i> 1 01 583					</p>
+					<p class="card-text">Capable of great things.</p>
+				</div>
+				<div class="card-footer pt-0 bg-white border-0" style="height:22%">
+										<div class="card-text py-1">
+						<!--<a href="https://www.findmeasuv.in/new_vehicle/index/Defender" class="card-link home-card-list">-->
+						<form method="POST" action="https://www.findmeasuv.in/new_vehicle/index/Defender" class="card-link home-card-list" style="margin-bottom: 1px;">
+            				<input type="hidden" name="temp_new_city" value="Chandigarh" />
+            				<input type="hidden" name="temp_new_dlrid" value="10801" />
+							<a href="javascript:void(0);" class="card-link home-card-list" onclick="$(this).closest('form').submit();">
+							<span class="icon-ldx-arrow-right"></span> <span class="card-link home-card-list">New Vehicle</span>
+							<span class="float-right">
+								<small>  </small>
+							</span>
+						    </a>
+						<!--</a>-->
+					    </form>
+					</div>
+										    					<div class="card-text py-1">
+    						<a href="javascript:void(0)" data-toggle="modal" data-target="#pack_details" class="card-link home-card-list">
+    							<span class="icon-ldx-arrow-right"></span> Pack Details
+    						</a>
+    					</div>
+																								
+				</div>
+				
+			   	    
+				    
+				<div class="card-footer bg-primary  text-center border-0 py-1">
+					<a href="" class="h6 text-white" data-toggle="modal" data-target="#select_new_dealer_popup" href="loc-modal">
+                select nearest retailer to check availability
+              </a>
+				</div> 
+							
+			</div>
+			</div>
+						    
+	<div class="card submodelcard col-sm-6 col-md-6 col-lg-4 py-3 ">
+	<div class="cardbox-shadow">
+	    <form method="POST" action="https://www.findmeasuv.in/new_vehicle/index/Range_Rover_Velar">
+				<input type="hidden" name="temp_new_city" value="Chandigarh" />
+				<input type="hidden" name="temp_new_dlrid" value="10801" />
+				<a href="javascript:void(0);" class="card-head-image" onclick="$(this).closest('form').submit();">
+				    	<img class="card-img" src="https://www.findmeasuv.in/frontend_assets/img/landrover_model/RANGE_ROVER_VELAR.jpg" alt="Card image cap">
+				</a>
+			</form>
+		<!--<a class="card-head-image" href="https://www.findmeasuv.in/new_vehicle/index/Range_Rover_Velar">
+			<img class="card-img" src="https://www.findmeasuv.in/frontend_assets/img/landrover_model/RANGE_ROVER_VELAR.jpg" alt="Card image cap">
+			</a>-->
+			<div class="card-body bg-white text-center indexTagBox">
+				<h5 class="card-title2 text-uppercase font-weight-bold">
+					<div class="">Range Rover Velar</div>
+				</h5>
+				<p class="card-text font-weight-bold l-height">Ex-Showroom From : 
+					<i class="fa fa-inr"></i> 86 81 000					<br>
+		                Monthly EMI From : 
+						<i class="fa fa-inr"></i> 1 09 105					</p>
+					<p class="card-text">The avant-garde Range Rover.</p>
+				</div>
+				<div class="card-footer pt-0 bg-white border-0" style="height:22%">
+										<div class="card-text py-1">
+						<!--<a href="https://www.findmeasuv.in/new_vehicle/index/Range_Rover_Velar" class="card-link home-card-list">-->
+						<form method="POST" action="https://www.findmeasuv.in/new_vehicle/index/Range_Rover_Velar" class="card-link home-card-list" style="margin-bottom: 1px;">
+            				<input type="hidden" name="temp_new_city" value="Chandigarh" />
+            				<input type="hidden" name="temp_new_dlrid" value="10801" />
+							<a href="javascript:void(0);" class="card-link home-card-list" onclick="$(this).closest('form').submit();">
+							<span class="icon-ldx-arrow-right"></span> <span class="card-link home-card-list">New Vehicle</span>
+							<span class="float-right">
+								<small>  </small>
+							</span>
+						    </a>
+						<!--</a>-->
+					    </form>
+					</div>
+																				<div class="card-text py-1">
+						<a href="https://www.findmeasuv.in/approved/index/Range_Rover_Velar" class="card-link home-card-list">
+							<span class="icon-ldx-arrow-right"></span> Approved Used 
+							<span class="float-right">
+								<small>1 Available</small>
+							</span>
+						</a>
+					</div>
+																		<div class="card-text py-1">
+						<a href="https://www.findmeasuv.in/retail_scheme/index/Range_Rover_Velar" class="card-link home-card-list ">
+							<span class="icon-ldx-arrow-right"></span> JUNE OFFERS
+							
+						</a>
+					</div>
+										
+				</div>
+				
+			   	    
+				    
+				<div class="card-footer bg-primary  text-center border-0 py-1">
+					<a href="" class="h6 text-white" data-toggle="modal" data-target="#select_new_dealer_popup" href="loc-modal">
+                select nearest retailer to check availability
+              </a>
+				</div> 
+							
+			</div>
+			</div>
+						    
+	<div class="card submodelcard col-sm-6 col-md-6 col-lg-4 py-3 ">
+	<div class="cardbox-shadow">
+	    <form method="POST" action="https://www.findmeasuv.in/new_vehicle/index/Discovery">
+				<input type="hidden" name="temp_new_city" value="Chandigarh" />
+				<input type="hidden" name="temp_new_dlrid" value="10801" />
+				<a href="javascript:void(0);" class="card-head-image" onclick="$(this).closest('form').submit();">
+				    	<img class="card-img" src="https://www.findmeasuv.in/frontend_assets/img/landrover_model/DISCOVERY.jpg" alt="Card image cap">
+				</a>
+			</form>
+		<!--<a class="card-head-image" href="https://www.findmeasuv.in/new_vehicle/index/Discovery">
+			<img class="card-img" src="https://www.findmeasuv.in/frontend_assets/img/landrover_model/DISCOVERY.jpg" alt="Card image cap">
+			</a>-->
+			<div class="card-body bg-white text-center indexTagBox">
+				<h5 class="card-title2 text-uppercase font-weight-bold">
+					<div class="">Discovery</div>
+				</h5>
+				<p class="card-text font-weight-bold l-height">Ex-Showroom From : 
+					<i class="fa fa-inr"></i> 88 06 043					<br>
+		                Monthly EMI From : 
+						<i class="fa fa-inr"></i> 1 10 766					</p>
+					<p class="card-text">The most versatile SUV.</p>
+				</div>
+				<div class="card-footer pt-0 bg-white border-0" style="height:22%">
+										<div class="card-text py-1">
+						<!--<a href="https://www.findmeasuv.in/new_vehicle/index/Discovery" class="card-link home-card-list">-->
+						<form method="POST" action="https://www.findmeasuv.in/new_vehicle/index/Discovery" class="card-link home-card-list" style="margin-bottom: 1px;">
+            				<input type="hidden" name="temp_new_city" value="Chandigarh" />
+            				<input type="hidden" name="temp_new_dlrid" value="10801" />
+							<a href="javascript:void(0);" class="card-link home-card-list" onclick="$(this).closest('form').submit();">
+							<span class="icon-ldx-arrow-right"></span> <span class="card-link home-card-list">New Vehicle</span>
+							<span class="float-right">
+								<small>  </small>
+							</span>
+						    </a>
+						<!--</a>-->
+					    </form>
+					</div>
+																													
+				</div>
+				
+			   	    
+				    
+				<div class="card-footer bg-primary  text-center border-0 py-1">
+					<a href="" class="h6 text-white" data-toggle="modal" data-target="#select_new_dealer_popup" href="loc-modal">
+                select nearest retailer to check availability
+              </a>
+				</div> 
+							
+			</div>
+			</div>
+						    
+	<div class="card submodelcard col-sm-6 col-md-6 col-lg-4 py-3 ">
+	<div class="cardbox-shadow">
+	    <form method="POST" action="https://www.findmeasuv.in/new_vehicle/index/Range_Rover_Sport">
+				<input type="hidden" name="temp_new_city" value="Chandigarh" />
+				<input type="hidden" name="temp_new_dlrid" value="10801" />
+				<a href="javascript:void(0);" class="card-head-image" onclick="$(this).closest('form').submit();">
+				    	<img class="card-img" src="https://www.findmeasuv.in/frontend_assets/img/landrover_model/RANGE_ROVER_SPORT.jpg" alt="Card image cap">
+				</a>
+			</form>
+		<!--<a class="card-head-image" href="https://www.findmeasuv.in/new_vehicle/index/Range_Rover_Sport">
+			<img class="card-img" src="https://www.findmeasuv.in/frontend_assets/img/landrover_model/RANGE_ROVER_SPORT.jpg" alt="Card image cap">
+			</a>-->
+			<div class="card-body bg-white text-center indexTagBox">
+				<h5 class="card-title2 text-uppercase font-weight-bold">
+					<div class="">Range Rover Sport</div>
+				</h5>
+				<p class="card-text font-weight-bold l-height">Ex-Showroom From : 
+					<i class="fa fa-inr"></i> 1 64 29 000					<br>
+		                Monthly EMI From : 
+						<i class="fa fa-inr"></i> 2 06 162					</p>
+					<p class="card-text">Visceral, dramatic, uncompromising.</p>
+				</div>
+				<div class="card-footer pt-0 bg-white border-0" style="height:22%">
+										<div class="card-text py-1">
+						<!--<a href="https://www.findmeasuv.in/new_vehicle/index/Range_Rover_Sport" class="card-link home-card-list">-->
+						<form method="POST" action="https://www.findmeasuv.in/new_vehicle/index/Range_Rover_Sport" class="card-link home-card-list" style="margin-bottom: 1px;">
+            				<input type="hidden" name="temp_new_city" value="Chandigarh" />
+            				<input type="hidden" name="temp_new_dlrid" value="10801" />
+							<a href="javascript:void(0);" class="card-link home-card-list" onclick="$(this).closest('form').submit();">
+							<span class="icon-ldx-arrow-right"></span> <span class="card-link home-card-list">New Vehicle</span>
+							<span class="float-right">
+								<small>  </small>
+							</span>
+						    </a>
+						<!--</a>-->
+					    </form>
+					</div>
+																				<div class="card-text py-1">
+						<a href="https://www.findmeasuv.in/approved/index/Range_Rover_Sport" class="card-link home-card-list">
+							<span class="icon-ldx-arrow-right"></span> Approved Used 
+							<span class="float-right">
+								<small>5 Available</small>
+							</span>
+						</a>
+					</div>
+																			
+				</div>
+				
+			   	    
+				    
+				<div class="card-footer bg-primary  text-center border-0 py-1">
+					<a href="" class="h6 text-white" data-toggle="modal" data-target="#select_new_dealer_popup" href="loc-modal">
+                select nearest retailer to check availability
+              </a>
+				</div> 
+							
+			</div>
+			</div>
+						    
+	<div class="card submodelcard col-sm-6 col-md-6 col-lg-4 py-3 ">
+	<div class="cardbox-shadow">
+	    <form method="POST" action="https://www.findmeasuv.in/new_vehicle/index/New_Range_Rover">
+				<input type="hidden" name="temp_new_city" value="Chandigarh" />
+				<input type="hidden" name="temp_new_dlrid" value="10801" />
+				<a href="javascript:void(0);" class="card-head-image" onclick="$(this).closest('form').submit();">
+				    	<img class="card-img" src="https://www.findmeasuv.in/frontend_assets/img/landrover_model/NEW_RANGE_ROVER.jpg" alt="Card image cap">
+				</a>
+			</form>
+		<!--<a class="card-head-image" href="https://www.findmeasuv.in/new_vehicle/index/New_Range_Rover">
+			<img class="card-img" src="https://www.findmeasuv.in/frontend_assets/img/landrover_model/NEW_RANGE_ROVER.jpg" alt="Card image cap">
+			</a>-->
+			<div class="card-body bg-white text-center indexTagBox">
+				<h5 class="card-title2 text-uppercase font-weight-bold">
+					<div class="">New Range Rover</div>
+				</h5>
+				<p class="card-text font-weight-bold l-height">Ex-Showroom From : 
+					<i class="fa fa-inr"></i> 2 38 87 000					<br>
+		                Monthly EMI From : 
+						<i class="fa fa-inr"></i> 2 99 490					</p>
+					<p class="card-text">Peerless refinement and luxury.</p>
+				</div>
+				<div class="card-footer pt-0 bg-white border-0" style="height:22%">
+										<div class="card-text py-1">
+						<!--<a href="https://www.findmeasuv.in/new_vehicle/index/New_Range_Rover" class="card-link home-card-list">-->
+						<form method="POST" action="https://www.findmeasuv.in/new_vehicle/index/New_Range_Rover" class="card-link home-card-list" style="margin-bottom: 1px;">
+            				<input type="hidden" name="temp_new_city" value="Chandigarh" />
+            				<input type="hidden" name="temp_new_dlrid" value="10801" />
+							<a href="javascript:void(0);" class="card-link home-card-list" onclick="$(this).closest('form').submit();">
+							<span class="icon-ldx-arrow-right"></span> <span class="card-link home-card-list">New Vehicle</span>
+							<span class="float-right">
+								<small>  </small>
+							</span>
+						    </a>
+						<!--</a>-->
+					    </form>
+					</div>
+																													
+				</div>
+				
+			   	    
+				    
+				<div class="card-footer bg-primary  text-center border-0 py-1">
+					<a href="" class="h6 text-white" data-toggle="modal" data-target="#select_new_dealer_popup" href="loc-modal">
+                select nearest retailer to check availability
+              </a>
+				</div> 
+							
+			</div>
+			</div>
+			  
+      </div><!-- container -->
+		
+    </div><!-- pt-2 pb-5 -->
+  
+    <style>
+.pack1 {
+background-color:#535355;
+color:white;
+}
+
+.pack2 {
+background-color:#94aeb5;
+}
+
+.pack3 {
+background-color:#39493c;
+color:white;
+}
+
+.pack4 {
+background-color:#535355;
+color:white;
+}
+
+</style>
+<div class="modal fade show" id="pack_details" role="dialog" style="display: none; padding-right: 10px;">
+<div class="modal-dialog pop_upw modal-xl modal-dialog-scrollable" style="max-width: 1000px;">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="icon-LR_Filter_Close"></span></button>
+</div>
+
+<div class="modal-body px-5 pb-5">
+
+<div class="row pack1 p-3">
+<div class="col-md-6 packtext">
+	<h4>EXPEDITION ROOF RACK</h4>
+    <p>Incredibly lightweight, yet capable of carrying a dynamic load capacity of 142kg3. </p>
+	
+    <h4>EXTERIOR SIDE-MOUNTED GEAR CARRIER</h4>
+    <p>Both waterproof and lockable, storing dirty or wet items is made easy and secure. </p>
+	
+    <h4>RAISED AIR INTAKE</h4>
+    <p>When your adventure takes you into dusty or sandy conditions, the intake flows cleaner air into the engine.</p>
+    
+    <h4>SPARE WHEEL COVER</h4>
+    <p>Stylish all-season protection for your rear mounted spare wheel.</p>
+    
+    <h4>WHEEL ARCH PROTECTION</h4>
+    <p>For those hazardous off-road routes. Offering additional protection in the form of durable, high-quality composite material, whilst adding to Defender’s unmistakable appearance.</p>
+    
+    <h4>FRONT &amp; REAR CLASSIC MUDFLAPS</h4>&nbsp;
+   <p> Reduce spray and protect Defender’s paintwork from dirt and debris, whilst complementing the vehicle's exterior design.</p>
+    
+    <h4>MATTE BLACK BONNET DECAL</h4>
+    <p>Stylish bonnet detailing in Matte Black. Individuality is everything.</p>
+    
+
+</div>
+
+<div class="col-md-6 packimage"><br>
+<h4>Explorer Pack </h4>
+<p>Tentative Retail at <i class="fa fa-inr"></i> 4,92,849/-</p>
+  <img src="https://www.findmeasuv.in/frontend_assets/img/defender_packs/explorer_pack.jpg" width="800" height="438" class="img-fluid" alt=""> </div>
+</div>
+
+
+
+
+<div class="row pack2 p-3">
+<div class="col-md-6 packtext">	
+	
+<h4>EXTERIOR SIDE-MOUNTED GEAR CARRIER</h4>
+<p>Both waterproof and lockable, storing dirty or wet items becomes easy and secure.</p>
+
+<h4>INTEGRATED AIR COMPRESSOR</h4>
+<p>Inflate anything from an airbed to Defender’s own tyres. Integrated conveniently into the loadspace.</p>
+
+<h4>SEAT BACKPACK</h4>
+<p>Keep your essentials at hand with the Seat Backpack, which neatly attaches to the middle of the rear seats. Easily removable for use on your excursion.</p>
+
+<h4>SPARE WHEEL COVER</h4>
+<p>Stylish all-season protection for your rear-mounted spare wheel.</p>
+
+<h4>FRONT &amp; REAR MUDFLAPS&nbsp;</h4>
+<p>Reduce spray and protect Defender’s paintwork from dirt and debris.</p>
+
+<h4>BRIGHT REAR SCUFF PLATE</h4>
+<p>Protects the bumper from any scrapes that may occur when loading your equipment or from scrub and brush when driving off-road.</p>
+
+<h4>PORTABLE RINSE SYSTEM</h4>
+<p>Wash off the mud from the trail. Rinse off your bike. And clean off your boots. Pressurised by filling from a tap or by using the hand pump.</p>
+
+
+</div>
+
+<div class="col-md-6 packimage"><br>
+<h4>Adventure Pack </h4>
+<p>Tentative Retail at <i class="fa fa-inr"></i> 3,29,585/-</p>
+  <img src="https://www.findmeasuv.in/frontend_assets/img/defender_packs/adventure_pack.jpg" width="800" height="438" class="img-fluid" alt=""> </div>
+</div>
+
+<div class="row pack3 p-3">
+<div class="col-md-6 packtext">	
+
+<h4>PORTABLE RINSE SYSTEM</h4>
+<p>Wash off the mud from the trail. Rinse off your bike. And clean off your boots. Pressurised by filling from a tap or by using the hand pump.
+
+</p><h4>LOADSPACE PARTITION – FULL HEIGHT</h4>&nbsp;
+<p>The partition separates the loadspace section from the cabin.</p>
+
+<h4>FRONT &amp; REAR CLASSIC MUDFLAPS&nbsp;</h4>
+<p>Reduce spray and protect Defender’s paintwork from dirt and debris, whilst complementing the vehicle's exterior design.</p>
+
+<h4>BRIGHT REAR SCUFF PLATE</h4>
+<p>Protects the bumper from any scrapes that may occur when packing the loadspace or from scrub and brush when driving off-road.</p>
+
+<h4>WHEEL ARCH PROTECTION</h4>
+<p>When making your way into the undergrowth, Wheel Arch Protection offers additional protection in the form of durable, high-quality composite material, whilst adding to Defender’s unmistakable appearance.</p>
+
+<h4>UPGRADES</h4>
+<p>Loadspace rubber mat<br>
+Deep-sided rubber mats<br>
+A-Frame protection bar.</p>
+
+
+</div>
+
+<div class="col-md-6 packimage"><br>
+<h4>Country Pack</h4>
+<p>Tentative Retail at <i class="fa fa-inr"></i> 2,22,714/-</p>
+  <img src="https://www.findmeasuv.in/frontend_assets/img/defender_packs/country_pack.jpg" width="800" height="438" class="img-fluid" alt=""> </div>
+</div>
+<div class="row pack4 p-3">
+<div class="col-md-6 packtext">	
+
+<h4>FRONT UNDERSHIELD</h4>
+<p>When crossing hazardous terrain, the Front Undershield1 provides protection to the front lower bumper area and radiator.</p>
+
+<h4>BRIGHT METAL PEDALS</h4>
+<p>Adding to Defender’s purposeful design and durable interior.</p>
+
+<h4>SPARE WHEEL COVER</h4>
+<p>Stylish all-season protection for your rear mounted spare wheel.</p>
+
+<h4>BRIGHT REAR SCUFF PLATE</h4>
+<p>Throw in whatever luggage you need for the weekend away, without the worry of any scrapes.</p>
+
+
+
+<h4>UPGRADES</h4>
+<p>SVO-designed wheel:  20” five spoke style<br>
+Loadspace rubber mat<br>
+Deep-sided rubber mats<br>
+Bright side tubes<br>
+22” 5-spoke gloss black wheel</p>
+
+
+</div>
+
+<div class="col-md-6 packimage"><br>
+<h4>Urban Pack (Without Undershield)</h4>
+<p>Tentative Retail at <i class="fa fa-inr"></i> 1,51,898/-</p>
+  <img src="https://www.findmeasuv.in/frontend_assets/img/defender_packs/urban_pack.jpg" width="800" height="438" class="img-fluid" alt=""> </div>
+</div>
+
+</div>
+
+
+
+</div>
+
+</div>
+</div> <!-- footer-div -->
+<footer class="site-footer">
+  
+     <div class="py-2 border-top">
+            <div class="footer ">
+               <div class="col-md-12">     
+                   <div class="row">
+                        <!-- col-1 -->
+                        <div class=" col-md-12 py-1 border-bottom text-center">
+                            <a class="term-copy" href="https://www.findmeasuv.in/page/terms" target="_blank"> Terms &amp; Conditions </a> | <a class="term-copy" href="https://www.findmeasuv.in/page/privacy_policy" target="_blank"> Privacy Policy </a> | <a href="https://www.findmeasuv.in/page/contact_us" target="_blank"> Contact Us</a>
+                        </div><!-- col-12 -->	
+                        
+                        <!-- col-2 -->
+                        <div class="col-md-12 py-1 text-black term-copy ">&copy; Copyright 2021-22
+                            <span class="float-right">
+                                <img src="https://www.findmeasuv.in/frontend_assets/img/poweredby_mobilestyx.png" alt="" width="180" height="18px;" >
+                            </span>
+                        </div><!-- col-12 -->
+                        
+                    </div>
+            </div>
+        </div><!-- footer -->
+        <button onclick="topFunction()" id="gotop"  title="Go to top"><span></span></button> 
+        
+                <!-- compare limit modal -->        
+      <div class="modal fade show" id="CompModalCenter" role="dialog" data-backdrop="static" data-keyboard="false" style="padding-right: 17px; display: none;">
+        <div class="modal-dialog">
+        <div class="modal-content">
+           <div class="modal-header">
+                <button type="button" class="close modal_close close_popup" onclick="$('#CompModalCenter').modal('hide');"> <span aria-hidden="true" class="container">x</span> </button>
+            </div>
+             <div class="modal-body pt-0">
+               <h3 class="mb-3 modal-title text-center w-100" id="exampleModalLongTitle">COMPARISON</h3>
+				<center>
+					<p class="pb-3 text-capitalize1 message-text">You can only compare a maximum of 3 vehicles.</p>
+					<button type="button" class="col-2 btn btn-primary" href="javascript:void(0);" data-dismiss="modal" aria-label="Close" onclick="$('#CompModalCenter').modal('hide');">OK</button>
+				</center>
+            </div>
+          </div>
+       </div>
+     </div>
+    <!-- custom alert box -->
+    
+      <div class="modal fade show" id="custom_alert_modal" role="dialog" data-backdrop="static" data-keyboard="false" style="padding-right: 17px; display: none;">
+        <div class="modal-dialog">
+        <div class="modal-content">
+           <div class="modal-header">
+                <button type="button" class="close modal_close close_popup" id="cancel" onclick="$('#custom_alert_modal').modal('hide');"> <span aria-hidden="true" class="container">x</span> </button>
+            </div>
+             <div class="modal-body pt-0">
+               <h3 class="mb-3 modal-title text-center w-100" id="exampleModalLongTitle">COMPARISON</h3>
+				<center>
+					<p class="pb-3 text-capitalize1 message-text" id="alert_message"></p>
+					<button type="button" class="col-2 btn btn-primary" href="javascript:void(0);" id="yesmdl" data-dismiss="modal" aria-label="Close" onclick="compare_procced(this)">OK</button>
+				</center>
+            </div>
+          </div>
+       </div>
+     </div>
+    <!-- custom alert box -->
+    
+        
+    </div>
+    
+    <!-- ---------------- js files ---------------- -->
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+	
+	<script src="https://www.findmeasuv.in/frontend_assets/js/bootstrap-select.js"></script>
+	<script src="https://www.findmeasuv.in/frontend_assets/js/script.js?1654844021" type="text/javascript"></script>
+	<script src="https://www.findmeasuv.in/frontend_assets/slick/slick.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://www.findmeasuv.in/frontend_assets/js/jquery-shorten.js" type="text/javascript"></script>
+	
+    
+    <script src="https://www.findmeasuv.in/frontend_assets/js/custom_functions.js?1654844021" type="text/javascript"></script>
+    <script src="https://www.findmeasuv.in/frontend_assets/js/compare/compare.js?1654844021" type="text/javascript"></script>
+  
+    <script src="https://www.findmeasuv.in/frontend_assets/js/cart/cart.js?1654844021" type="text/javascript"></script>
+ <link href="https://www.findmeasuv.in/frontend_assets/css/slider.css" name="css" rel="stylesheet" />
+ 
+ 
+
+ <script src="https://www.findmeasuv.in/frontend_assets/js/slick-slider.js"></script>
+ 
+    <script type="text/javascript">
+        $(function(){
+             compare_count();
+            get_cart_count();
+        });
+    </script>
+    
+  <!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 867772685;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/867772685/?guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+ <!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1605870273075416');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1605870273075416&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+<!--Start of analytics script-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-54898309-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Google Tag Manager added on 11/06/2020 for dual brand-->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5WRF6QQ');</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TXJBMH');</script>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5WRF6QQ" height="0" width="0" style="display:none; visibility:hidden;"></iframe></noscript>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TXJBMH" height="0" width="0" style="display:none; visibility:hidden;"></iframe></noscript>
+
+<!-- End Google Tag Manager -->
+
+<!-- Lightning Bolt Begins -->
+  <script type="text/javascript" id="lightning_bolt" src="//cdn-akamai.mookie1.com/LB/LightningBolt.js"></script>
+  <!-- Lightning Bolt Ends -->
+  <script language='JavaScript1.1' async src='//pixel.mathtag.com/event/js?mt_id=1310373&mt_adid=208049&mt_exem=&mt_excl=&v1=&v2=&v3=&s1=&s2=&s3='></script>
+ 
+ 
+ <!---19/12/19-->
+<script type="text/javascript">
+_linkedin_partner_id = "691187";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=691187&fmt=gif" />
+</noscript>
+<!---End--->
+
+<!--
+Event snippet for Land Rover New Pixel - Find me a SUV - 18th Oct 2019 - SS on : Please do not remove.
+Place this snippet on pages with events youâ€™re tracking. 
+Creation date: 08/09/2020
+-->
+
+<script>
+  gtag('event', 'conversion', {
+    'allow_custom_scripts': true,
+    'u1': 'https://www.findmeasuv.in/',
+    'u2': 'https://www.landrover.in/',
+    'send_to': 'DC-8570767/invmedia/landr005+standard'
+  });
+
+</script>
+
+<noscript>
+<img src="https://ad.doubleclick.net/ddm/activity/src=8570767;type=invmedia;cat=landr005;u1=https://www.findmeasuv.in/;u2=https://www.landrover.in/;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1?" width="1" height="1" alt=""/>
+</noscript>
+<!-- End of event snippet: Please do not remove -->
+
+<!--
+Event snippet for FInd me a SUV Universal Pixel - 10th Aug 2020 - SS on : Please do not remove.
+Place this snippet on pages with events youâ€™re tracking. 
+Creation date: 08/09/2020
+-->
+
+<script>
+  gtag('event', 'conversion', {
+    'allow_custom_scripts': true,
+    'send_to': 'DC-8570767/invmedia/findm0+standard'
+  });
+</script>
+
+<noscript>
+<img src="https://ad.doubleclick.net/ddm/activity/src=8570767;type=invmedia;cat=findm0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1?" width="1" height="1" alt=""/>
+</noscript>
+<!-- End of event snippet: Please do not remove -->
+
+<div class="modal fade" id="important_notice_modal" tabindex="-1" role="dialog" data-keyboard="false" data-backdrop="static">
+        <div class="modal-dialog modal-dialog-centered modal-sm">
+          <div class="modal-content">
+           <div class="modal-header">
+			<h5 class="modal-title text-center w-100" id="exampleModalLongTitle">IMPORTANT NOTICE</h5>
+            </div>
+            <div class="modal-body" style="padding-top: 0px;">
+             <p align='center'><p style="text-align: justify;">There is currently a global shortage of semi-conductor components. Jaguar Land Rover India Limited (JLRIL) is affected by this shortage and as a result, certain Jaguar and Land Rover products may not be available and delivery timelines for some products may be extended by authorized Jaguar Land Rover Retailers. Please contact your authorized Jaguar Land Rover Retailer for further updates.</p>
+			<br><button class="btn btn-success" href="javascript:void(0);" data-dismiss="modal" aria-label="Close" onclick="$('#important_notice_modal').modal('hide');increment_notice_model()" style="width: 130px;height: 34px;margin-left: 69px;margin-right: 70px;"> <b>OK</b></button>
+            </p>
+            </div>
+           
+            </div>
+          </div>
+	</div>
+
+
+<script>
+    function increment_notice_model(){
+         $.ajax({
+          type:"POST",
+          url:"https://www.findmeasuv.in/payment/increment_notice_count",
+          data:{},
+          dataType:"html",
+          success: function(e){
+          
+        }
+       
+      });  
+    }
+</script>
+</footer>
+<!-- footer-div -->
+
+
+    </div>
+    <!-- pageWrapper -->
+    </div>
+</body>
+</html>

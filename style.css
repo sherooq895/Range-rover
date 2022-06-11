@@ -1,0 +1,88 @@
+.inputbox{
+    width: 40vw;
+   
+    background-color: rgba(246, 248, 248, 0.87);
+    color: black;
+    padding: 20px
+    
+}
+.carousel-caption{
+    top: 25%;
+    left:5%;
+}
+.vidio{
+    height: 80vh;
+    object-fit: cover;
+
+}
+.buttton{
+    background-color: black;
+    color: white;
+}
+.fontsize{
+    font-size: 12px;
+    text-decoration: none;
+}
+.image{
+    background-image: url(footer.webp);
+    background-position:center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 60px 0px;
+    margin-top: 60px;
+
+}
+.innerdiv{
+    max-width: 450px;
+
+    background-color: white;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+
+
+
+}
+.button2{
+   
+    color: white;
+    background-color: black;
+
+
+}
+.list{
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+    padding-top: 20px;
+}
+.logosize{
+    width: 120px;
+}
+ul.list li {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+@media screen and (max-width: 600px) {
+    .inputbox{
+        width: 70vw;
+    }
+}
+.iconsize{
+    font-size: 19px;
+}
+.sizetext{
+    font-size: 16px;
+}
+.bottomsize{
+    font-size: 13px;
+}
+.color{
+    background-color: rgb(207, 203, 203);
+}
